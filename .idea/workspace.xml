@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b2daa89-5fe3-4203-9384-19b5476263ba" name="Default" comment="save pro">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Kidcastle-Mall.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Old-course.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/RegistMember.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/RegistMember.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ShareRuleSet.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ShareRuleSet.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/btnajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/changepassword.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/checkcommodity.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/checkcommodity.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/checksignup.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/checksignup.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/commodity.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/commodity.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/commoditygot.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/course.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/course.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exchange.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/footer.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/header.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/a.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/image/load.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/uploadify-cancel.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/insertcourse.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/Contributing.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/advanced_init/column_render.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/advanced_init/complex_header.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/advanced_init/defaults.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/advanced_init/dom_multiple_elements.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/advanced_init/dom_toolbar.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/advanced_init/dt_events.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/advanced_init/events_live.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/advanced_init/footer_callback.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/advanced_init/html5-data-attributes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/advanced_init/html5-data-options.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/advanced_init/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/advanced_init/language_file.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/advanced_init/length_menu.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/advanced_init/object_dom_read.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/advanced_init/row_callback.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/advanced_init/row_grouping.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/advanced_init/sort_direction_control.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/ajax/custom_data_flat.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/ajax/custom_data_property.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/ajax/data/arrays.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/ajax/data/arrays_custom_prop.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/ajax/data/arrays_subobjects.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/ajax/data/objects.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/ajax/data/objects_deep.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/ajax/data/objects_root_array.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/ajax/data/objects_subarrays.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/ajax/data/orthogonal.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/ajax/deep.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/ajax/defer_render.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/ajax/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/ajax/null_data_source.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/ajax/objects.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/ajax/objects_subarrays.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/ajax/orthogonal-data.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/ajax/simple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/api/add_row.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/api/api_in_init.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/api/counter_columns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/api/form.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/api/highlight.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/api/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/api/multi_filter.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/api/multi_filter_select.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/api/regex.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/api/row_details.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/api/select_row.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/api/select_single_row.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/api/show_hide.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/api/tabs_and_scrolling.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/basic_init/alt_pagination.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/basic_init/comma-decimal.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/basic_init/complex_header.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/basic_init/dom.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/basic_init/filter_only.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/basic_init/flexible_width.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/basic_init/hidden_columns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/basic_init/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/basic_init/language.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/basic_init/multi_col_sort.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/basic_init/multiple_tables.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/basic_init/scroll_x.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/basic_init/scroll_xy.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/basic_init/scroll_y.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/basic_init/scroll_y_dynamic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/basic_init/state_save.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/basic_init/table_sorting.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/basic_init/zero_configuration.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/data_sources/ajax.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/data_sources/dom.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/data_sources/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/data_sources/js_array.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/data_sources/server_side.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/plug-ins/api.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/plug-ins/dom_sort.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/plug-ins/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/plug-ins/range_filtering.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/plug-ins/sorting_auto.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/plug-ins/sorting_manual.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/resources/demo.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/resources/demo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/resources/details_close.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/resources/details_open.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/resources/examples.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/resources/syntax/Syntax Highlighter license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/resources/syntax/shCore.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/resources/syntax/shCore.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/custom_vars.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/defer_loading.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/ids.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/jsonp.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/object_data.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/pipeline.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/post.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/row_details.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/scripts/ids-arrays.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/scripts/ids-objects.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/scripts/jsonp.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/scripts/mysql.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/scripts/objects.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/scripts/post.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/scripts/postgres.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/scripts/server_processing.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/scripts/sqlite.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/scripts/sqlserver.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/scripts/ssp.class.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/select_rows.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/server_side/simple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/styling/bootstrap.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/styling/bootstrap4.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/styling/cell-border.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/styling/compact.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/styling/display.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/styling/foundation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/styling/hover.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/styling/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/styling/jqueryUI.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/styling/material.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/styling/no-classes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/styling/order-column.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/styling/row-border.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/styling/semanticui.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/styling/stripe.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/styling/uikit.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/License.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/css/autoFill.bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/css/autoFill.bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/css/autoFill.dataTables.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/css/autoFill.dataTables.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/css/autoFill.foundation.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/css/autoFill.foundation.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/css/autoFill.jqueryui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/css/autoFill.jqueryui.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/examples/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/examples/initialisation/alwaysAsk.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/examples/initialisation/columns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/examples/initialisation/events.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/examples/initialisation/fills.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/examples/initialisation/focus.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/examples/initialisation/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/examples/initialisation/keyTable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/examples/initialisation/plugins.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/examples/initialisation/scrolling.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/examples/initialisation/simple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/examples/styling/bootstrap.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/examples/styling/foundation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/examples/styling/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/examples/styling/jqueryui.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/js/autoFill.bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/js/autoFill.bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/js/autoFill.foundation.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/js/autoFill.foundation.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/js/autoFill.jqueryui.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/js/autoFill.jqueryui.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/js/dataTables.autoFill.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/AutoFill/js/dataTables.autoFill.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/License.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/css/buttons.bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/css/buttons.bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/css/buttons.bootstrap4.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/css/buttons.bootstrap4.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/css/buttons.dataTables.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/css/buttons.dataTables.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/css/buttons.foundation.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/css/buttons.foundation.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/css/buttons.jqueryui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/css/buttons.jqueryui.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/css/common.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/css/mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/api/addRemove.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/api/enable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/api/group.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/api/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/api/text.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/column_visibility/columnGroups.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/column_visibility/columns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/column_visibility/columnsToggle.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/column_visibility/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/column_visibility/layout.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/column_visibility/restore.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/column_visibility/simple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/column_visibility/stateSave.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/column_visibility/text.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/flash/copyi18n.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/flash/filename.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/flash/hidden.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/flash/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/flash/pdfMessage.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/flash/pdfPage.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/flash/simple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/flash/swfPath.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/flash/tsv.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/html5/columns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/html5/copyi18n.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/html5/filename.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/html5/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/html5/outputFormat-function.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/html5/outputFormat-orthogonal.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/html5/pdfImage.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/html5/pdfMessage.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/html5/pdfOpen.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/html5/pdfPage.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/html5/simple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/html5/tsv.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/initialisation/className.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/initialisation/collections-autoClose.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/initialisation/collections-sub.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/initialisation/collections.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/initialisation/custom.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/initialisation/export.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/initialisation/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/initialisation/keys.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/initialisation/multiple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/initialisation/new.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/initialisation/pageLength.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/initialisation/plugins.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/initialisation/simple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/print/autoPrint.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/print/columns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/print/customisation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/print/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/print/message.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/print/select.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/print/simple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/styling/bootstrap.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/styling/bootstrap4.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/styling/foundation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/styling/icons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/styling/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/examples/styling/jqueryui.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/js/buttons.bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/js/buttons.bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/js/buttons.bootstrap4.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/js/buttons.bootstrap4.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/js/buttons.colVis.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/js/buttons.colVis.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/js/buttons.flash.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/js/buttons.flash.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/js/buttons.foundation.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/js/buttons.foundation.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/js/buttons.html5.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/js/buttons.html5.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/js/buttons.jqueryui.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/js/buttons.jqueryui.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/js/buttons.print.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/js/buttons.print.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/js/dataTables.buttons.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/js/dataTables.buttons.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Buttons/swf/flashExport.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/License.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/css/colReorder.bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/css/colReorder.bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/css/colReorder.dataTables.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/css/colReorder.dataTables.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/css/colReorder.foundation.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/css/colReorder.foundation.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/css/colReorder.jqueryui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/css/colReorder.jqueryui.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/initialisation/col_filter.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/initialisation/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/initialisation/new_init.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/initialisation/predefined.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/initialisation/realtime.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/initialisation/reset.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/initialisation/scrolling.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/initialisation/simple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/integration/colvis.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/integration/fixedcolumns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/integration/fixedheader.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/integration/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/integration/responsive.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/integration/server_side.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/integration/state_save.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/styling/alt_insert.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/styling/bootstrap.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/styling/foundation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/styling/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/examples/styling/jqueryui.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/js/dataTables.colReorder.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/ColReorder/js/dataTables.colReorder.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/License.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/css/fixedColumns.bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/css/fixedColumns.bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/css/fixedColumns.dataTables.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/css/fixedColumns.dataTables.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/css/fixedColumns.foundation.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/css/fixedColumns.foundation.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/css/fixedColumns.jqueryui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/css/fixedColumns.jqueryui.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/initialisation/colvis.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/initialisation/css_size.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/initialisation/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/initialisation/index_column.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/initialisation/left_right_columns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/initialisation/right_column.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/initialisation/server-side-processing.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/initialisation/simple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/initialisation/size_fixed.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/initialisation/size_fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/initialisation/two_columns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/integration/api.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/integration/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/integration/select-checkbox.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/integration/select.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/styling/bootstrap.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/styling/col_filter.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/styling/colvis.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/styling/foundation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/styling/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/styling/jqueryui.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/styling/rowspan.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/styling/rtl.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/examples/styling/server-side-processing.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/js/dataTables.fixedColumns.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedColumns/js/dataTables.fixedColumns.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/License.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/css/fixedHeader.bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/css/fixedHeader.bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/css/fixedHeader.dataTables.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/css/fixedHeader.dataTables.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/css/fixedHeader.foundation.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/css/fixedHeader.foundation.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/css/fixedHeader.jqueryui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/css/fixedHeader.jqueryui.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/examples/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/examples/integration/buttons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/examples/integration/colreorder.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/examples/integration/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/examples/integration/responsive-bootstrap.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/examples/integration/responsive.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/examples/options/enable-disable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/examples/options/header_footer.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/examples/options/horizontal-scroll.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/examples/options/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/examples/options/new.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/examples/options/offset.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/examples/options/show-hide.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/examples/options/simple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/examples/options/two_tables.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/examples/styling/bootstrap.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/examples/styling/foundation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/examples/styling/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/examples/styling/jqueryui.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/js/dataTables.fixedHeader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/FixedHeader/js/dataTables.fixedHeader.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/License.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/css/keyTable.bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/css/keyTable.bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/css/keyTable.dataTables.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/css/keyTable.dataTables.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/css/keyTable.foundation.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/css/keyTable.foundation.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/css/keyTable.jqueryui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/css/keyTable.jqueryui.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/examples/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/examples/initialisation/events.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/examples/initialisation/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/examples/initialisation/scrolling.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/examples/initialisation/server-side.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/examples/initialisation/simple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/examples/initialisation/stateSave.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/examples/styling/bootstrap.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/examples/styling/focusStyle.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/examples/styling/foundation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/examples/styling/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/examples/styling/jqueryui.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/js/dataTables.keyTable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/KeyTable/js/dataTables.keyTable.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/License.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/css/responsive.bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/css/responsive.bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/css/responsive.dataTables.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/css/responsive.dataTables.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/css/responsive.foundation.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/css/responsive.foundation.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/css/responsive.jqueryui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/css/responsive.jqueryui.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/child-rows/column-control.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/child-rows/custom-renderer.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/child-rows/disable-child-rows.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/child-rows/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/child-rows/right-column.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/child-rows/whole-row-control.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/column-control/auto.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/column-control/classes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/column-control/colreorder.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/column-control/column-visibility.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/column-control/columnPriority.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/column-control/fixedHeader.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/column-control/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/column-control/init-classes.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/display-types/bootstrap-modal.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/display-types/foundation-modal.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/display-types/immediateShow.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/display-types/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/display-types/jqueryui-modal.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/display-types/modal.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/initialisation/ajax.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/initialisation/className.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/initialisation/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/initialisation/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/initialisation/new.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/initialisation/option.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/styling/bootstrap.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/styling/compact.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/styling/foundation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/styling/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/styling/jqueryui.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/examples/styling/scrolling.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/js/dataTables.responsive.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/js/dataTables.responsive.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/js/responsive.bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/js/responsive.bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/js/responsive.foundation.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/js/responsive.foundation.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/js/responsive.jqueryui.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Responsive/js/responsive.jqueryui.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/License.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/css/rowReorder.bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/css/rowReorder.bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/css/rowReorder.dataTables.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/css/rowReorder.dataTables.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/css/rowReorder.foundation.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/css/rowReorder.foundation.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/css/rowReorder.jqueryui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/css/rowReorder.jqueryui.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/examples/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/examples/initialisation/defaults.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/examples/initialisation/events.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/examples/initialisation/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/examples/initialisation/responsive.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/examples/initialisation/restrictedOrdering.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/examples/initialisation/scroll.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/examples/initialisation/selector.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/examples/initialisation/simple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/examples/styling/bootstrap.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/examples/styling/foundation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/examples/styling/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/examples/styling/jqueryui.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/examples/styling/reorderClass.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/examples/styling/snapX.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/js/dataTables.rowReorder.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/RowReorder/js/dataTables.rowReorder.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/License.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/css/scroller.bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/css/scroller.bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/css/scroller.dataTables.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/css/scroller.dataTables.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/css/scroller.foundation.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/css/scroller.foundation.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/css/scroller.jqueryui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/css/scroller.jqueryui.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/examples/data/2500.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/examples/data/ssp.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/examples/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/examples/initialisation/api_scrolling.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/examples/initialisation/fixedColumns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/examples/initialisation/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/examples/initialisation/large_js_source.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/examples/initialisation/server-side_processing.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/examples/initialisation/simple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/examples/initialisation/state_saving.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/examples/styling/bootstrap.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/examples/styling/foundation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/examples/styling/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/examples/styling/jqueryui.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/js/dataTables.scroller.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Scroller/js/dataTables.scroller.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/License.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/Readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/css/select.bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/css/select.bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/css/select.dataTables.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/css/select.dataTables.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/css/select.foundation.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/css/select.foundation.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/css/select.jqueryui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/css/select.jqueryui.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/api/events.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/api/get.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/api/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/api/select.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/initialisation/blurable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/initialisation/buttons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/initialisation/cells.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/initialisation/checkbox.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/initialisation/deferRender.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/initialisation/i18n.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/initialisation/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/initialisation/multi.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/initialisation/reload.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/initialisation/simple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/initialisation/single.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/styling/bootstrap.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/styling/foundation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/styling/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/examples/styling/jqueryui.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/js/dataTables.select.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/extensions/Select/js/dataTables.select.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/license.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/css/dataTables.bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/css/dataTables.bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/css/dataTables.bootstrap4.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/css/dataTables.bootstrap4.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/css/dataTables.foundation.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/css/dataTables.foundation.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/css/dataTables.jqueryui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/css/dataTables.jqueryui.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/css/dataTables.material.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/css/dataTables.material.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/css/dataTables.semanticui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/css/dataTables.semanticui.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/css/dataTables.uikit.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/css/dataTables.uikit.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/css/jquery.dataTables.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/css/jquery.dataTables.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/css/jquery.dataTables_themeroller.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/images/Sorting icons.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/images/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/images/sort_asc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/images/sort_asc_disabled.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/images/sort_both.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/images/sort_desc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/images/sort_desc_disabled.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/js/dataTables.bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/js/dataTables.bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/js/dataTables.bootstrap4.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/js/dataTables.bootstrap4.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/js/dataTables.foundation.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/js/dataTables.foundation.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/js/dataTables.jqueryui.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/js/dataTables.jqueryui.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/js/dataTables.material.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/js/dataTables.material.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/js/dataTables.semanticui.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/js/dataTables.semanticui.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/js/dataTables.uikit.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/js/dataTables.uikit.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/js/jquery.dataTables.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/js/jquery.dataTables.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/media/js/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-modal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap-select.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/css/jquery-confirm.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/css/jquery-confirm.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/demo/demo.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/demo/demo.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/demo/libs/default.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/demo/libs/highlight.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/demo/libs/pretty.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/demo/logo-name.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/dist/jquery-confirm.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/dist/jquery-confirm.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/form.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/jquery-confirm.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/js/jquery-confirm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/table.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/craftpip/text.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.11.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/kkpager-master/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/kkpager-master/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/kkpager-master/example/pager_test.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/kkpager-master/example/pager_test_clickmode.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/kkpager-master/example/pager_test_orange_color.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/kkpager-master/lib/jquery-1.10.2.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/kkpager-master/src/kkpager.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/kkpager-master/src/kkpager.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/kkpager-master/src/kkpager_blue.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/kkpager-master/src/kkpager_orange.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/md5.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/script.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/anchor/anchor.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/attachment.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/attachment.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/attachment.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/fileTypeImages/icon_chm.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/fileTypeImages/icon_default.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/fileTypeImages/icon_doc.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/fileTypeImages/icon_exe.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/fileTypeImages/icon_jpg.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/fileTypeImages/icon_mp3.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/fileTypeImages/icon_mv.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/fileTypeImages/icon_pdf.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/fileTypeImages/icon_ppt.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/fileTypeImages/icon_txt.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/fileTypeImages/icon_xls.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/images/alignicon.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/images/alignicon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/images/bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/images/file-icons.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/images/file-icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/images/icons.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/images/icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/images/image.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/images/progress.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/images/success.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/attachment/images/success.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/background/background.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/background/background.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/background/background.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/background/images/bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/background/images/success.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/charts/chart.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/charts/charts.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/charts/charts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/charts/charts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/charts/images/charts0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/charts/images/charts1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/charts/images/charts2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/charts/images/charts3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/charts/images/charts4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/charts/images/charts5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/emotion/emotion.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/emotion/emotion.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/emotion/emotion.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/emotion/images/0.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/emotion/images/bface.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/emotion/images/cface.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/emotion/images/fface.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/emotion/images/jxface2.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/emotion/images/neweditor-tab-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/emotion/images/tface.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/emotion/images/wface.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/emotion/images/yface.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/gmap/gmap.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/help/help.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/help/help.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/help/help.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/image/image.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/image/image.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/image/image.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/image/images/alignicon.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/image/images/bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/image/images/icons.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/image/images/icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/image/images/image.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/image/images/progress.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/image/images/success.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/image/images/success.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/insertframe/insertframe.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/internal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/link/link.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/map/map.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/map/show.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/music/music.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/music/music.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/music/music.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/preview/preview.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/scrawl/images/addimg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/scrawl/images/brush.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/scrawl/images/delimg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/scrawl/images/delimgH.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/scrawl/images/empty.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/scrawl/images/emptyH.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/scrawl/images/eraser.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/scrawl/images/redo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/scrawl/images/redoH.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/scrawl/images/scale.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/scrawl/images/scaleH.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/scrawl/images/size.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/scrawl/images/undo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/scrawl/images/undoH.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/scrawl/scrawl.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/scrawl/scrawl.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/scrawl/scrawl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/searchreplace/searchreplace.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/searchreplace/searchreplace.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/snapscreen/snapscreen.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/spechars/spechars.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/spechars/spechars.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/table/dragicon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/table/edittable.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/table/edittable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/table/edittable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/table/edittd.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/table/edittip.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/template/config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/template/images/bg.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/template/images/pre0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/template/images/pre1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/template/images/pre2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/template/images/pre3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/template/images/pre4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/template/template.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/template/template.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/template/template.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/video/images/bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/video/images/center_focus.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/video/images/file-icons.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/video/images/file-icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/video/images/icons.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/video/images/icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/video/images/image.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/video/images/left_focus.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/video/images/none_focus.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/video/images/progress.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/video/images/right_focus.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/video/images/success.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/video/images/success.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/video/video.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/video/video.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/video/video.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/webapp/webapp.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/wordimage/fClipboard_ueditor.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/wordimage/imageUploader.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/wordimage/tangram.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/wordimage/wordimage.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/dialogs/wordimage/wordimage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/en/en.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/en/images/addimage.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/en/images/alldeletebtnhoverskin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/en/images/alldeletebtnupskin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/en/images/background.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/en/images/button.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/en/images/copy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/en/images/deletedisable.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/en/images/deleteenable.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/en/images/listbackground.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/en/images/localimage.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/en/images/music.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/en/images/rotateleftdisable.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/en/images/rotateleftenable.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/en/images/rotaterightdisable.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/en/images/rotaterightenable.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/en/images/upload.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/zh-cn/images/copy.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/zh-cn/images/localimage.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/zh-cn/images/music.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/zh-cn/images/upload.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/lang/zh-cn/zh-cn.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/php/Uploader.class.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/php/action_crawler.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/php/action_list.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/php/action_upload.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/php/config.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/php/controller.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/css/ueditor.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/css/ueditor.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/dialogbase.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/anchor.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/arrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/arrow_down.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/arrow_up.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/button-bg.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/cancelbutton.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/charts.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/cursor_h.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/cursor_h.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/cursor_v.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/cursor_v.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/dialog-title-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/filescan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/highlighted.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/icons-all.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/icons.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/loaderror.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/loading.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/lock.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/neweditor-tab-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/pagebreak.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/scale.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/sortable.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/spacer.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/sparator_v.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/table-cell-align.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/tangram-colorpicker.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/toolbar_bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/unhighlighted.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/upload.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/videologo.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/word.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/default/images/wordpaste.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/themes/iframe.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/SyntaxHighlighter/shCore.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/SyntaxHighlighter/shCoreDefault.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/codemirror/codemirror.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/codemirror/codemirror.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/adapters/mootools-adapter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/adapters/mootools-adapter.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/adapters/prototype-adapter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/adapters/prototype-adapter.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/adapters/standalone-framework.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/adapters/standalone-framework.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/highcharts-more.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/highcharts-more.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/highcharts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/highcharts.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/modules/annotations.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/modules/annotations.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/modules/canvas-tools.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/modules/canvas-tools.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/modules/data.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/modules/data.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/modules/drilldown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/modules/drilldown.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/modules/exporting.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/modules/exporting.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/modules/funnel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/modules/funnel.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/modules/heatmap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/modules/heatmap.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/modules/map.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/modules/map.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/modules/no-data-to-display.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/modules/no-data-to-display.src.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/themes/dark-blue.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/themes/dark-green.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/themes/gray.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/themes/grid.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/highcharts/themes/skies.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/jquery-1.10.2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/jquery-1.10.2.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/jquery-1.10.2.min.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/snapscreen/UEditorSnapscreen.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/video-js/font/vjs.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/video-js/font/vjs.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/video-js/font/vjs.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/video-js/font/vjs.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/video-js/video-js.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/video-js/video-js.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/video-js/video-js.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/video-js/video.dev.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/video-js/video.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/webuploader/Uploader.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/webuploader/webuploader.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/webuploader/webuploader.custom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/webuploader/webuploader.custom.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/webuploader/webuploader.flashonly.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/webuploader/webuploader.flashonly.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/webuploader/webuploader.html5only.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/webuploader/webuploader.html5only.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/webuploader/webuploader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/webuploader/webuploader.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/webuploader/webuploader.withoutimage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/webuploader/webuploader.withoutimage.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/zeroclipboard/ZeroClipboard.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/zeroclipboard/ZeroClipboard.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/third-party/zeroclipboard/ZeroClipboard.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/ueditor.all.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/ueditor.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/ueditor.parse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/ueditor.parse.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/login.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/login.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/manager.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/manager.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/paras.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/saler.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/saler.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/salerjoin.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/salerjoin.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scorechange.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scorechange.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scoreobtain.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scoreobtain.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/cache/1^d5bc18254d50e1af6dd72eeeed95e16b0e54baad.index.tpl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/cache/2^d5bc18254d50e1af6dd72eeeed95e16b0e54baad.index.tpl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/cache/^d5bc18254d50e1af6dd72eeeed95e16b0e54baad.index.tpl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/paras.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates/u.footer.tpl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates/u.header.tpl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates/u.lesson.tpl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates/u.lessonlist.tpl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates/u.mylesson.tpl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates/u.scoremall.tpl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates/u.scoremalldetail.tpl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates/u.sharecontent.tpl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates/u.sharecontentlist.tpl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates_c/850ce6a6edd6180f96e3bc1d6f30e2f6018bc400_0.file.index.tpl.cache.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates_c/850ce6a6edd6180f96e3bc1d6f30e2f6018bc400_0.file.index.tpl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spokesman.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spokesman.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/student.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/student.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/style/bootstrap-modal.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/style/bootstrap-select.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/style/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/style/style.common.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/style/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.footer.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.header.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.lesson.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.lessonlist.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.login.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.my.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.mychangehis.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.mychangehis.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.myinfo.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.myinfo.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.mylesson.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.mylessons.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.mylessons.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.myscore.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.myscore.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.myscorehis.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.myscorehis.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.pay.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.regist.ajax.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.regist.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.scoremall.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.scoremalldetail.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.sharecontent.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/u.sharecontentlist.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ueditor.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/Change Log.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/__MACOSX/._Change Log.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/__MACOSX/._uploadify.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/check-exists.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/jquery.uploadify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/jquery.uploadify.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/license.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/upload/_0ce79e2ddceb1f1ece5c9db011fd15e9_42075864.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/upload/_3dc2cb7c7dcd78fce55215da17dcf044_13321191.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/upload/_43acd8bbf8035e7de85f805ee40d23d1_29476595.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/upload/_adc981250d1465b06b785a140cfd7e1d_95400014.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/uploadify-cancel.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/uploadify.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/uploadify.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/uploadify.swf" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ueditor.all</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="130" />
+    <option name="y" value="134" />
+    <option name="width" value="1768" />
+    <option name="height" value="914" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kidcastle-Mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kidcastle-Mall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kidcastle-Mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kidcastle-Mall" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kidcastle-Mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kidcastle-Mall" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="ueditor" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\nanyixuan\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b2daa89-5fe3-4203-9384-19b5476263ba" name="Default" comment="" />
+      <created>1522650894915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522650894915</updated>
+      <workItem from="1522650896087" duration="1632000" />
+      <workItem from="1522654728261" duration="2743000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4375000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="130" y="134" width="1768" height="914" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24971098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32947233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="save pro" />
+    <option name="LAST_COMMIT_MESSAGE" value="save pro" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/ueditor/ueditor.all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
