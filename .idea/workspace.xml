@@ -2,38 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b2daa89-5fe3-4203-9384-19b5476263ba" name="Default" comment="save pro">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Kidcastle-Mall.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Old-course.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/RegistMember.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/RegistMember.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShareRuleSet.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ShareRuleSet.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/btnajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/changepassword.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkcommodity.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checkcommodity.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checksignup.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/checksignup.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/commodity.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/commodity.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/commoditygot.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/course.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/course.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exchange.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/footer.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/header.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image/a.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/image/load.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/uploadify-cancel.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/insertcourse.php" />
       <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/Contributing.md" />
       <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/Readme.md" />
       <change beforePath="" afterPath="$PROJECT_DIR$/js/DataTables-1.10.11/examples/advanced_init/column_render.html" />
@@ -906,85 +874,7 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/ueditor.config.js" />
       <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/ueditor.parse.js" />
       <change beforePath="" afterPath="$PROJECT_DIR$/js/ueditor/ueditor.parse.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/login.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/login.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/manager.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/manager.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/paras.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/saler.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/saler.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/salerjoin.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/salerjoin.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scorechange.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scorechange.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scoreobtain.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scoreobtain.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/cache/1^d5bc18254d50e1af6dd72eeeed95e16b0e54baad.index.tpl.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/cache/2^d5bc18254d50e1af6dd72eeeed95e16b0e54baad.index.tpl.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/cache/^d5bc18254d50e1af6dd72eeeed95e16b0e54baad.index.tpl.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/paras.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates/u.footer.tpl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates/u.header.tpl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates/u.lesson.tpl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates/u.lessonlist.tpl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates/u.mylesson.tpl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates/u.scoremall.tpl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates/u.scoremalldetail.tpl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates/u.sharecontent.tpl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates/u.sharecontentlist.tpl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates_c/850ce6a6edd6180f96e3bc1d6f30e2f6018bc400_0.file.index.tpl.cache.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/smarty/templates_c/850ce6a6edd6180f96e3bc1d6f30e2f6018bc400_0.file.index.tpl.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spokesman.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spokesman.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/student.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/student.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/style/bootstrap-modal.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/style/bootstrap-select.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/style/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/style/style.common.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/style/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.footer.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.header.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.lesson.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.lessonlist.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.login.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.my.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.mychangehis.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.mychangehis.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.myinfo.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.myinfo.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.mylesson.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.mylessons.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.mylessons.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.myscore.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.myscore.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.myscorehis.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.myscorehis.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.pay.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.regist.ajax.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.regist.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.scoremall.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.scoremalldetail.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.sharecontent.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/u.sharecontentlist.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ueditor.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/Change Log.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/__MACOSX/._Change Log.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/__MACOSX/._uploadify.swf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/check-exists.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/jquery.uploadify.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/jquery.uploadify.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/license.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/upload/_0ce79e2ddceb1f1ece5c9db011fd15e9_42075864.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/upload/_3dc2cb7c7dcd78fce55215da17dcf044_13321191.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/upload/_43acd8bbf8035e7de85f805ee40d23d1_29476595.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/upload/_adc981250d1465b06b785a140cfd7e1d_95400014.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/uploadify-cancel.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/uploadify.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/uploadify.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uploadify/uploadify.swf" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -1096,12 +986,20 @@
       <option name="presentableId" value="Default" />
       <updated>1522650894915</updated>
       <workItem from="1522650896087" duration="1632000" />
-      <workItem from="1522654728261" duration="2743000" />
+      <workItem from="1522654728261" duration="3365000" />
     </task>
+    <task id="LOCAL-00001" summary="save pro">
+      <created>1522662045856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522662045856</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4375000" />
+    <option name="totallyTimeSpent" value="4997000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="130" y="134" width="1768" height="914" extended-state="0" />
@@ -1145,7 +1043,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
